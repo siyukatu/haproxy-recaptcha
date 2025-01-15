@@ -28,14 +28,14 @@ local colors_preset = {
         error = "#ff5050",
         recaptcha = "light"
     },
-    ["discord.sabach.jp"] = {
-        text = "#fff",
-        background = "#313339",
-        gray = "#666",
-        text_gray = "#ccc",
+    ["example.com"] = {
+        text = "#222",
+        background = "#ccc",
+        gray = "#ccc",
+        text_gray = "#777",
         green = "#0c0",
         error = "#ff5050",
-        recaptcha = "dark"
+        recaptcha = "light"
     }
 }
 -- end of config zone
